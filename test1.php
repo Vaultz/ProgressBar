@@ -22,8 +22,7 @@ $_SESSION['nb_tests']++;
   <body>
     <nav>
       <div class="nav-wrapper blue">
-        <a href="#" class="brand-logo">ProgressBar Tests</a>
-
+        <a href="#" class="brand-logo">ProgressBar Tests - Test <?php echo $_SESSION['nb_tests']; ?>/11</a>
       </div>
     </nav>
 
