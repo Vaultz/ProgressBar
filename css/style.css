@@ -1,0 +1,19 @@
+.mainsection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15%;
+  flex-direction:column;
+}
+
+.startbutton {
+}
+
+.buttonbox {
+  margin-top:5%;
+}
+
+.progress {
+  height: 15px;
+  width:50%;
+}
